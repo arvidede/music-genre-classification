@@ -1,0 +1,14 @@
+NUMBER_OF_FEATURES = 34
+NUMBER_OF_TRAINING_FEATURES = 12
+SIMILARITY_WEIGHT = 0.5
+SCORE_EXP = 1.4
+SCALE_LIMITS = {
+    'low': 0,
+    'upp': 1
+}
+DATASET_DIR = './datasets/GTZAN/genres/'
+DATASET_FILETYPE = 'au'
+GENERATED_FILES_DIR = './generated/'
+ALL_TRAINING_FEATURES_DATA_DIR = GENERATED_FILES_DIR + 'all_training_features_data.npy'
+OPTIMAL_TRAINING_FEATURES_DIR = GENERATED_FILES_DIR + 'optimal_training_features.npy'
+OPTIMAL_TRAINING_FEATURES_DATA_DIR = GENERATED_FILES_DIR + 'optimal_training_features_data.npy'
