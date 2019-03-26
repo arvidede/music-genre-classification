@@ -38,3 +38,10 @@ C. To run the classifier using a local file, run the following:
 D. To run the classifier using a YouTube URL, run the following:
     [python or python3] url
 and enter the URL when asked
+
+
+### Authors:
+
+Gustav Fridell
+Arvid Edenheim
+Saam Cedighi Chafjiri
